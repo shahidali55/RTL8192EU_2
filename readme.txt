@@ -6,3 +6,4 @@
 	       $ sudo insmod xsens_mt.ko
 4.For both driver, only make once in a new computer,
   but modprobe and insmod should be done every time you restart the computer.
+v4.2.4.1_9581.20131119
